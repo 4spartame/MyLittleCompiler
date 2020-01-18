@@ -1,0 +1,29 @@
+{
+  "name": "mylittlecompiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4spartame/MyLittleCompiler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4spartame/MyLittleCompiler/issues"
+  },
+  "jest": {
+    "preset": "ts-jest"
+  },
+  "homepage": "https://github.com/4spartame/MyLittleCompiler#readme",
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "ts-jest": "^24.3.0",
+    "typescript": "^3.7.4",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
+  }
+}
